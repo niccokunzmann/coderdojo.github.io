@@ -1,0 +1,60 @@
+ul {
+  list-style-position: inside;
+}
+
+h5 {
+  display: inline-block;
+}
+
+li{
+  margin-bottom: 5%;
+  list-style-type: none;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  background: #fff;
+  padding: 0;
+  letter-spacing: 1px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+}
+
+.green{
+  color:#49b749
+}
+
+.blue{
+  color:#0093d5;
+}
+
+.jumbotron img{
+  width:250px;
+}
+
+.jumbotron{
+  background-color: #f9f9f9;
+}
+
+.content span{
+  margin-right: 2.5%;
+}
+
+.glyphicon {
+  font-size: 25px;
+}
+
+li span{
+  vertical-align: middle;
+}
+
+li a{
+  vertical-align: middle;
+}
+
+.content h4{
+  padding-bottom: 3%;
+}
