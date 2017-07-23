@@ -39,6 +39,10 @@ body {
   background-color: #f9f9f9;
 }
 
+.content {
+  display: inline-block;
+}
+
 .content span{
   margin-right: 2.5%;
 }
